@@ -56,11 +56,6 @@ AI Automation & n8n Developer, specializing in **Agentic AI systems**, autonomou
 ## 🚧 Currently Building
 
 ### 🎓 CampusConnect (University Management Platform)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 - **Problem:** University communication and student management features are fragmented across disparate systems.
 - **Solution:** Developing a centralized platform featuring a Smart Digital Notice Board, Complaint System, and Lost & Found portal.
 - **Result:** Unified campus management web application engineered for student workflow efficiency.
