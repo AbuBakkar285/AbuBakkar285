@@ -1,4 +1,4 @@
-Aapka sara data compile karke bilkul same **Sara Manzoor** wale high-end Markdown template par **Muhammad Abu Bakkar Nadeem** ki complete README.md tayar kar di gayi hai:
+
 
 ```markdown
 <!-- Hero Banner -->
