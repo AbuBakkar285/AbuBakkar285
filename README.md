@@ -35,11 +35,13 @@ AI Automation & n8n Developer, specializing in **Agentic AI systems**, autonomou
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Make.com-6F00FF?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Google_Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity IDE" />
 </p>
 
 ```text
@@ -49,10 +51,6 @@ AI Automation & n8n Developer, specializing in **Agentic AI systems**, autonomou
 🌱 Currently learning    : Agentic AI architectures, advanced n8n workflows, and modern web scaling
 💬 Ask me about          : n8n, Groq API, Python, Flask, Streamlit, Supabase, MySQL, and Web Games
 ⚡ Fun fact              : I love building interactive web games and automating tasks in a single sitting!
-Aap bilkul sahi keh rahe hain! Kyun ke CampusConnect abhi under development hai aur aap is par actively kaam kar rahe hain, isko ek alag "🚧 Currently Working Project" section mein rakhna zyada professional aur clear lagega.
-
-Yahan Updated Code hai jisme CampusConnect ko ek Dedicated Section mein shift kar diya gaya hai:
-
 Markdown
 <!-- Animated Name Header -->
 <p align="center">
